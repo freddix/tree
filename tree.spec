@@ -1,11 +1,11 @@
 Summary:	A utility which displays a tree view of the contents of directories
 Name:		tree
-Version:	1.6.0
+Version:	1.7.0
 Release:	1
 License:	GPL
 Group:		Applications/File
 Source0:	http://mama.indstate.edu/users/ice/tree/src/%{name}-%{version}.tgz
-# Source0-md5:	04e967a3f4108d50cde3b4b0e89e970a
+# Source0-md5:	abe3e03e469c542d8e157cdd93f4d8a6
 URL:		http://mama.indstate.edu/users/ice/tree/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
